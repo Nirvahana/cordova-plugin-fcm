@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>193335113210-tbcdfmrddushimm3jhvetbhuhkquh4dp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.193335113210-tbcdfmrddushimm3jhvetbhuhkquh4dp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAh1c_OsI-QzGPcr1NO10zOUT63edIbjLg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>193335113210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.demo.FCM</string>
+	<key>PROJECT_ID</key>
+	<string>fir-cloud-messaging-demo-dd788</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-cloud-messaging-demo-dd788.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:193335113210:ios:61ab55a65f6cbe7a</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-cloud-messaging-demo-dd788.firebaseio.com</string>
 </dict>
 </plist>
